@@ -4,6 +4,8 @@ Docker 상에서 작동시킬 컨테이너의 구성 정보를 기술한 파일�
 
 Docker build 명령을 통해 Docker file 에 기술된 구성 정보를 바탕으로 Docker image를 생성한다.
 
+![dockertime](https://github.com/stack-masters/please-study/assets/127307160/ba498736-c96b-43e8-8605-8873be44457f)
+
 # 🐳 도커 파일의 지시문과 각 지시문의 역할
 
 - FROM
