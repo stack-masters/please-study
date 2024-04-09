@@ -1,6 +1,8 @@
 # 💫 CORS(Cross-Origin Resource Sharing) 이란?
 <br />
 
+![cors](https://github.com/stack-masters/please-study/assets/127307160/48910e34-58d0-4cca-8ab8-b1e441cc044e)
+
 ## CORS의 개념
 
 CORS는 다른 도메인으로부터 리소스를 공유할 수 있게 해주는 메커니즘이다. 기본적으로 웹 브라우저는 보안상의 이유로 동일출처정책(Same-Origin Policy)를 따른다. 이 정책에 따르면, 웹페이지는 동일한 출처에서 로드된 리소스만을 요청할 수 있다.
