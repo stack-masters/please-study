@@ -51,6 +51,12 @@ System.out.println(optional); // Optional.empty
 System.out.println(optional.isPresent()); // false
 ```
 
+> isPresent() 메서드란?
+>
+> Optional 객체가 값을 가지고 있다면 true, 값이 없다면 false 로 Boolean 타입을 리턴합니다.
+
+<br/><br/>
+
 Optional 클래스는 내부에서 static 변수로 EMPTY 객체를 미리 생성해서 가지고 있다. 이러한 이유로 빈 객체를 여러 번 생성해줘야 하는 경우에도 1개의 EMPTY 객체를 공유함으로써 메모리를 절약하고 있다.
 ```java
 public final class Optional<T> {
